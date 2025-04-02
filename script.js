@@ -1,6 +1,8 @@
 let titleElement = document.getElementById("title")
 let pTag = document.querySelector(".object")
 let buttonTag = document.querySelector("#changeText")
+let headingTwo = document.querySelectorAll("#heading2")
 console.log(titleElement)
 console.log(pTag)
 console.log(buttonTag)
+console.log(headingTwo)
