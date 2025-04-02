@@ -1,2 +1,6 @@
 let titleElement = document.getElementById("title")
+let pTag = document.querySelector(".descripton")
+let buttonTag = document.querySelector("#changeText")
 console.log(titleElement)
+console.log(pTag)
+console.log(buttonTag)
